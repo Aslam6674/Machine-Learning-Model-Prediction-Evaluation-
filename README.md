@@ -33,7 +33,7 @@ heart-disease-prediction/
 ├── heart.csv                        # Dataset (download from Kaggle)
 ├── README.md                        # This file
 │
-└── outputs/                         # Auto-generated plots
+└── outputs/                        
     ├── 01_distributions.png
     ├── 02_target_balance.png
     ├── 03_correlation_analysis.png
@@ -74,7 +74,7 @@ The dataset contains **303 patient records** with **14 columns** (13 features + 
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/Aslam6674/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
 
